@@ -1,0 +1,1 @@
+// Placeholder for: hardware/firmware/main.ino

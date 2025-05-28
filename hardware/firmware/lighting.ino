@@ -1,0 +1,1 @@
+// Placeholder for: hardware/firmware/lighting.ino
