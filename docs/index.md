@@ -1,5 +1,4 @@
 <link rel="stylesheet" href="style.css">
-<img src="banner.png" alt="ForestCore Banner" style="width:100%; border-radius: 12px; margin-bottom: 2rem;">
 
 
 # 🌲 ForestCore™  
