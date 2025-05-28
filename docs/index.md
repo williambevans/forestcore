@@ -4,7 +4,8 @@
 # 🌲 ForestCore™  
 **Your indoor forest therapy station.**
 
-<img src="docs/banner.png" alt="ForestCore Banner" style="width:100%; border-radius:12px; margin:1rem 0;"/>
+<img src="banner.png" alt="ForestCore Banner" style="width:100%; border-radius:12px; margin:1rem 0;" />
+
 
 A compact, AI-regulated microclimate station designed to bring the stress-relieving effects of forest bathing into your home through phytoncide diffusion and immersive environmental simulation.
 
